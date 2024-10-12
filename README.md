@@ -19,11 +19,11 @@ Soy un analista de datos con experiencia en la investigación política, anális
 
 ## Proyectos Destacados ⭐
 ### 1. **Limpieza de Datos y Tablas de Contingencia**
-Realización de un análisis detallado sobre datos cualitativos y cuantitativos, aplicando técnicas de limpieza y tablas de contingencia.
+Realización de un análisis detallado sobre datos cualitativos y cuantitativos, aplicando técnicas de limpieza y tablas de contingencia. (Fase inicial y exploratoria de Senado_Col)
 - 🔗 [ETL-EDA-SenadoCol](https://github.com/EstebanGomezG/ETL-EDA-SenadoCol)
 
 ### 2. **Dashboard interactivo de la distribución de escaños**
-Visualización en formato de hemiciclo mostrando la distribución de escaños de un parlamento.
+Proyecto en construcción para el análisis de la relación entre el poder ejecutivo y el legislativo en Colombia a partir de un Dash Board interactivo desarrollado en Plotly Dash. (Segunda fase con énfasis en visualización del proyecto Senado Col)
 - 🔗 [DashSenadoCol](https://github.com/EstebanGomezG/DashSenadoCol)
 
 ### 3. **Análisis de la correlación entre índices de democracia y desigualdad**
